@@ -1,0 +1,5 @@
+code,name,description
+1001,HTTP_SERVICE_IS_NOT_AVALABLE,"Service is not avaliable"
+1002,HTTP_SERVICE_IS_AVALABLE,"Service is avaliable"
+1011,HTTPS_SERVICE_IS_AVALABLE,"Service is avaliable"
+1002,HTTPS_SERVICE_IS_AVALABLE,"Service is avaliable"
