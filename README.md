@@ -66,4 +66,4 @@ A simple bash script tool to capture screenshots across multiple environments us
 ---
 
 + [edit](https://github.com/webpageshot/bash/edit/main/README.md)
-+ [webpageshot/bash](https://github.com/webpageshot/bash/edit/main/README.md)
++ [webpageshot/bash](https://github.com/webpageshot/bash)
