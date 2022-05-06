@@ -58,15 +58,12 @@ A simple bash script tool to capture screenshots across multiple environments us
 
 ## TODO [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/webpageshot/bash/edit/main/TODO.md)
 
-+ publikacja jako odrębny projekt z zadaniami
-+ przykłady dla:
-  + github
-  + gitlab
-  + bitbucket
-  + integracji z JIRA
++ skrypt generujący zrzuty ekrany stron www
++ podłączenie input - output
++ dostep przez API
 
 
+---
 
---
 + [edit](https://github.com/webpageshot/bash/edit/main/README.md)
 + [webpageshot/bash](https://github.com/webpageshot/bash/edit/main/README.md)
