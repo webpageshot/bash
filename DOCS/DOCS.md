@@ -1,5 +1,5 @@
 
-## DOCS [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/webpageshot/bash/edit/main/DOCS.md)
+## DOCS [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/webpageshot/bash/edit/main/DOCS/DOCS.md)
 
 Jak pracować z dokumentacją?
 

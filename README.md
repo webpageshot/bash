@@ -1,31 +1,31 @@
 
 ![logo.webpageshot.com](https://logo.webpageshot.com/1/cover.png)
 
-# [webpageshot.com](https://www.webpageshot.com/) [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/webpageshot/bash/edit/main/MENU.md) 
+# [webpageshot.com](https://www.webpageshot.com/) [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/webpageshot/bash/edit/main/DOCS/MENU.md) 
 
 + [Strona informacyjna: www.webpageshot.com](https://www.webpageshot.com/)
 + [Dokumentacja - docs.webpageshot.com](https://docs.webpageshot.com/)
 + [Logotyp: logo.webpageshot.com](https://logo.webpageshot.com/)
 + [Pryzkłady - examples.webpageshot.com](http://examples.webpageshot.com)
 
-+ [LICENSE](LICENSE)
++ [LICENSE](../LICENSE)
 
 
 
-## START [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/webpageshot/bash/edit/main/START.md)
+## START [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/webpageshot/bash/edit/main/DOCS/START.md)
 
 
 A bash script to load a webpage, screenshot, save the screenshotted image, and then close the web browser.
 Bash script that takes screenshoots in regular intervals
 
 
-## EXAMPLES [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/webpageshot/bash/edit/main/EXAMPLES.md)
+## EXAMPLES [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/webpageshot/bash/edit/main/DOCS/EXAMPLES.md)
 
 
 
 
 
-## DOCS [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/webpageshot/bash/edit/main/DOCS.md)
+## DOCS [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/webpageshot/bash/edit/main/DOCS/DOCS.md)
 
 Jak pracować z dokumentacją?
 
@@ -56,7 +56,7 @@ A simple bash script tool to capture screenshots across multiple environments us
 
 
 
-## TODO [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/webpageshot/bash/edit/main/TODO.md)
+## TODO [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/webpageshot/bash/edit/main/DOCS/TODO.md)
 
 + skrypt generujący zrzuty ekrany stron www
 + podłączenie input - output
@@ -65,5 +65,5 @@ A simple bash script tool to capture screenshots across multiple environments us
 
 ---
 
-+ [edit](https://github.com/webpageshot/bash/edit/main/README.md)
++ [edit](https://github.com/webpageshot/bash/edit/main/DOCS/README.md)
 + [webpageshot/bash](https://github.com/webpageshot/bash)
